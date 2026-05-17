@@ -14,3 +14,5 @@ def subtract(a, b):
     return a - b
 
 print(subtract(50, 10))
+
+print("This Summer is too hot")
