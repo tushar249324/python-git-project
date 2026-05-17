@@ -16,3 +16,7 @@ def subtract(a, b):
 print(subtract(50, 10))
 
 print("This Summer is too hot")
+
+print("Stash Change")
+
+print("Git Tested")
